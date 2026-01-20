@@ -17,7 +17,7 @@ policy, and outside the scope of both Passport and this strategy.
 
 ## Install
 
-    $ npm install passport-totp
+    $ npm install https://github.com/ValeriyNK/passport-totp.git
 
 ## Usage
 
